@@ -1,0 +1,9 @@
+# Build outputs (publish binaries via GitHub Releases)
+release/
+*.exe
+*.pdb
+*.user
+*.suo
+.vs/
+bin/
+obj/
