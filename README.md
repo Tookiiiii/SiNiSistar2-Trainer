@@ -42,7 +42,7 @@
 无需安装 Visual Studio 或任何第三方库，Windows 10 / 11 系统自带 64 位 `.NET Framework 4.x` 编译器：
 
 ```bat
-git clone <your-repo-url>
+git clone https://github.com/Tookiiiii/SiNiSistar2-Trainer
 cd SiNiSistar2-Trainer
 build.bat
 ```
@@ -61,7 +61,3 @@ build.bat
 3. **本工具仅供单机游戏学习研究与个人娱乐使用**，请支持官方正版游戏。
 
 ---
-
-## 📄 License
-
-[MIT License](LICENSE)
